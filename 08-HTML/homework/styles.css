@@ -1,5 +1,11 @@
+
 h1 {
     color: rgb(127, 236, 255);
+    position: fixed;
+}
+h3 {
+    position: relative;
+    left: 500px;
 }
 img {
     width: 400px;
@@ -12,6 +18,6 @@ img {
     border: dotted red;
 }
 #spanId {
-    font-size: 18px;
+    font-size: 18px; 
     margin: 50px;
 }
